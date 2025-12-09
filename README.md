@@ -1,5 +1,5 @@
 # moveit_hardware_integration
-This repository contains the test done on integrating DJI RS3 pro gimal(hardware) with moveit(software). The complete code cannot be shared because of **copyright issues**. 
+This repository contains the test done on integrating DJI RS3 pro gimal(hardware) with moveit(software). The complete code cannot be shared because of **copyright issues**. The above code is not complete, I have only shared the testing scripts used to control the axis of gimbal is shown here.  
 
 - At first digital twin of the dji rs3 pro gimbal was created and got transferred into the ROS domain as URDF and then proper controllers were assinged.
 - I used ros_control_boilerplate package to connect the joints from the simulated environments to connect the real joints of the hardware
